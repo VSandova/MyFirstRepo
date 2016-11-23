@@ -11,7 +11,7 @@ namespace FirstProject
         static void Main(string[] args)
         {
             Console.WriteLine("After midnight the clowns aren't funny!");
-
+            Console.WriteLine("2+2");
         }
     }
 }
